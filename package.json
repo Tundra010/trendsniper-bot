@@ -1,0 +1,13 @@
+{
+  "name": "trendsniper-bot",
+  "version": "0.1.0",
+  "description": "Minimal Discord bot scaffold (safe testable logic without network).",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/test_command.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

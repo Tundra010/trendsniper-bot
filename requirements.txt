@@ -1,13 +1,13 @@
-discord.py>=2.3.0
+# Discord and Web
+discord.py==2.3.2
+aiohttp>=3.8.0
+Flask>=3.0.0
+requests>=2.31.0
+
+# Data and APIs
 alpaca-py>=0.18.0
 pandas>=2.0.0
 numpy>=1.24.0
-python-dotenv>=1.0.0
+yfinance>=0.2.40
 pytz>=2024.1
-aiohttp>=3.8.0
-discord.py
-Flask
-requests
-yfinance
-pandas
-numpy
+python-dotenv>=1.0.0
